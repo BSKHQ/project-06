@@ -6,4 +6,6 @@
 4. Select the translate all button
 5. In the 'Binary code' section, click the 'to the cpu emulator' button
 6. Supply the needed values in RAM as required by the program instructions
-7. Click the 'run' button
+7. If need be, click the "Enable Keyboard" button to enable the keyboard (e.g. for programs like fill.asm)
+8. Click the 'run' button
+9. Enjoy
